@@ -1,0 +1,59 @@
+{
+    "books": [
+        {
+            "title": "Thinking Fast and Slow",
+            "author": "Daniel Kahneman",
+            "isbn": "0374533555",
+            "synopsis": "How much do you know your mind? We have two systems that govern the way we think: System 1, which is fast and emotional and System 2, which is deliberate and logical.",
+            "imgurl": "http://covers.openlibrary.org/b/isbn/0374533555-M.jpg"
+        },
+
+        {
+            "title": "The Power of Habit",
+            "author": "Charles Duhigg",
+            "isbn": "081298160X",
+            "synopsis": "Where do habits come from? How do habits form? How can we change our habits?",
+            "imgurl": "http://covers.openlibrary.org/b/isbn/081298160X-M.jpg"
+        },
+
+        {
+            "title": "Intuition Pumps",
+            "author": "Daniel Dennett",
+            "isbn": "9780393082067",
+            "synopsis": "Mental models and thinking tools for a more open mind.",
+            "imgurl": "http://covers.openlibrary.org/b/isbn/9780393082067-M.jpg"
+        },
+
+        {
+            "title": "The Checklist Manifesto",
+            "author": "Atul Gawande",
+            "isbn": "9780312430009",
+            "synopsis": "In terms of keeping organized, on track, and remembering the little things in the midst of something huge, checklists are severely underrated.",
+            "imgurl": "http://covers.openlibrary.org/b/isbn/9780312430009-M.jpg"
+        },
+
+        {
+            "title": "Mindset",
+            "author": "Carol Dweck",
+            "isbn": "9780345472328",
+            "synopsis": "There is fixed mindset and there is growth mindset. One hinders us; the other opens up new possibilities for our personal and professional growth.",
+            "imgurl": "http://covers.openlibrary.org/b/isbn/9780345472328-M.jpg"
+        },
+
+        {
+            "title": "Creativity, Inc.",
+            "author": "Ed Catmul",
+            "isbn": "0812993012",
+            "synopsis": "How do we happen upon that 'spark' of creativity? How can we bottle it up and find continuous streams of it?",
+            "imgurl": "http://covers.openlibrary.org/b/isbn/0812993012-M.jpg"
+        },
+
+        {
+            "title": "The Black Swan",
+            "author": "Nassim Nicholas Taleb",
+            "isbn": "081297381X",
+            "synopsis": "What if you didn't know as much as you think you did? What if what you DON'T know is actually more important than what you do know?",
+            "imgurl": "http://covers.openlibrary.org/b/isbn/081297381X-M.jpg"
+        }
+    ]
+}
