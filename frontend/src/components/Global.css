@@ -1,0 +1,23 @@
+*,
+*::after,
+*::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+
+html, body {
+  margin: 0;
+  font-size: 62.5%;
+  background-color: #C62E65;
+}
+
+a, 
+a:link, 
+a:visited {
+  text-decoration: none;
+}
+
+.active {
+  font-style: italic;
+}

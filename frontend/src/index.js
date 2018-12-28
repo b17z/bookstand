@@ -1,17 +1,17 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import 'gestalt/dist/gestalt.css';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom'
 import registerServiceWorker from './registerServiceWorker';
 
-import App from './components/App';
+import BookList from './components/BookList/BookList';
 
 
 const Root = () => (
+    
     <Router>
         <React.Fragment>
             <Switch>
-                <Route component={App} exact path="/"></Route>
+                <Route component={BookList} exact path="/"></Route>
             </Switch>
         </React.Fragment>
     </Router>

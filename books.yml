@@ -35,3 +35,9 @@ books:
   synopsis: How do we happen upon that 'spark' of creativity? How can we bottle it
     up and find continuous streams of it?
   imgurl: http://covers.openlibrary.org/b/isbn/0812993012-M.jpg
+- title: The Black Swan.
+  author: Nassim Nicholas Taleb
+  isbn: 081297381X
+  synopsis: What if you didn't know as much as you think you did? What if what you DON'T know is actually more important than what you do know?
+  imgurl: http://covers.openlibrary.org/b/isbn/081297381X-M.jpg
+

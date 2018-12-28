@@ -1,9 +1,9 @@
 import React, { Component } from 'react'
-import './App.css'
+import '../Global.css'
 import { Container, Intro, IntroTitle, IntroSentence, IntroDivider, BookContainer, Book, BookImage, BookSynopsis } from './styles'
 import Strapi from 'strapi-sdk-javascript/build/main'
 
-const apiUrl = process.env.API_URL || 'http://localhost:1337'
+const apiUrl = process.env.API_URL || 'https://bookstandapi.herokuapp.com'
 const strapi = new Strapi(apiUrl)
 
 class App extends Component {
@@ -40,27 +40,22 @@ class App extends Component {
 
     return (
       <Container>
+
         <Intro>
           <IntroTitle>BOOKSTAND</IntroTitle>
           <IntroSentence>Always reading; always learning; always expanding your mind</IntroSentence>
           <IntroDivider></IntroDivider>
         </Intro>
+        
         <BookContainer>
           {books.map(book => (
             <Book key={ book._id }>
-              <BookImage src={`${apiUrl}${book.coverImage.url}`}></BookImage>
-            </Book>
-          ))}
-          <BookContainer>
-          {books.map(book => (
-            <Book key={ book._id }>
-              <BookSynopsis>
-                <p>{ book.synopsis }</p>
-              </BookSynopsis>
-            </Book>
+              <BookImage src={ `${apiUrl}${book.coverImage.url}` }></BookImage>
+              <BookSynopsis>{ book.synopsis }</BookSynopsis>
+            </Book> 
           ))}
         </BookContainer>
-      </BookContainer>
+
       </Container>
     )
   }
