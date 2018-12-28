@@ -13,10 +13,8 @@ I want to add more and more functionality to it over time, which I will list bel
 ### Running the frontend
 
 `
-
 yarn start
 npm run start
-
 `
 
 ### Accesing the API
