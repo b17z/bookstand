@@ -37,7 +37,7 @@ npm run start
 
 ## Currently Working On
 
-- [ ] Adding more books (I have about 400+ books in my at home library so you see why I need to add the feature functionality below quite soon)
+- [ ] Adding more books (I have about 400+ books in my at home library so you see why I need to add the filter functionality below quite soon)
 - [ ] Add more options to the metadata for the API such as genre and multiple author arrays
 - [ ] Adding filters based on general topic/genre
 - [ ] Tutorial on how I built it
