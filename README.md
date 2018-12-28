@@ -34,5 +34,5 @@ I want to add more and more functionality to it over time, which I will list bel
 - [ ] Possibly: Gatsby starter
 
 # Finished
-[x] Mobile friendly (hopefully). Tested on Chrome, Safari, Brave, and Firefox on iOS. Friends tested it on Chrome on Android.
+- [x] Mobile friendly (hopefully). Tested on Chrome, Safari, Brave, and Firefox on iOS. Friends tested it on Chrome on Android.
 
