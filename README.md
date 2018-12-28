@@ -26,6 +26,7 @@ I want to add more and more functionality to it over time, which I will list bel
 
 # Future Features
 - [ ] Search functionality
+- [ ] Intro sentence cycles through quotes
 - [ ] More intuitive design
 - [ ] Porting over to something like [Gatsby](https://www.gatsbyjs.org/) or [Next](https://nextjs.org/) for "blog like" functionality
 - [ ] Click on the book for review
