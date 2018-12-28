@@ -17,20 +17,21 @@ I want to add more and more functionality to it over time, which I will list bel
 - [Surge](https://surge.sh/) for hosting the React App. Considering switching over to [Firebase](https://firebase.google.com/) since my other sites are hosted on there. 
 
 # Current Working On
-[ ] Adding more books (I have about 400+ books in my at home library so you see why I need to add the feature functionality below quite soon)
-[ ] Add more options to the metadata for the API such as genre and multiple author arrays
-[ ] Adding filters based on general topic/genre
-[ ] Tutorial on how I built it
-[ ] Switching to PostgreSQL database
-[ ] Dockerizing
+- [ ] Adding more books (I have about 400+ books in my at home library so you see why I need to add the feature functionality below quite soon)
+- [ ] Add more options to the metadata for the API such as genre and multiple author arrays
+- [ ] Adding filters based on general topic/genre
+- [ ] Tutorial on how I built it
+- [ ] Switching to PostgreSQL database
+- [ ] Dockerizing
 
 # Future Features
-[ ] Search functionality
-[ ] More intuitive design
-[ ] Porting over to something like [Gatsby](https://www.gatsbyjs.org/) or [Next](https://nextjs.org/) for "blog like" functionality
-[ ] Click on the book for review
-[ ] Kubernetes hosting
-[ ] Update on my progress through the book
+- [ ] Search functionality
+- [ ] More intuitive design
+- [ ] Porting over to something like [Gatsby](https://www.gatsbyjs.org/) or [Next](https://nextjs.org/) for "blog like" functionality
+- [ ] Click on the book for review
+- [ ] Kubernetes hosting
+- [ ] Update on my progress through the book
+- [ ] Possibly: Gatsby starter
 
 # Finished
 [x] Mobile friendly (hopefully). Tested on Chrome, Safari, Brave, and Firefox on iOS. Friends tested it on Chrome on Android.
