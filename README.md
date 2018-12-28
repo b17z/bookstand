@@ -1,12 +1,30 @@
 # Bookstand
+
 A virtual bookshelf created to represent my never-ending stack of books.
 
-# Why I Created This
+## Why I Created This
+
 I wanted to learn frontend development and also wanted to be able to share with the world my bookshelf. Sure, I could have used something like Goodreads but where's the fun in that?
 
 I want to add more and more functionality to it over time, which I will list below.
 
-# Technologies Used
+## How to Use
+
+### Running the frontend
+
+`
+
+yarn start
+npm run start
+
+`
+
+### Accesing the API
+
+- https://bookstandapi.herokuapp.com/books
+
+## Technologies Used
+
 - [Create React App](https://github.com/facebook/create-react-app) 
 - [Strapi](https://strapi.io/) for API creation. I can't say enough great things about this. What would have taken much longer to do from scratch, took me a couple of minutes.
 - [GraphQL](https://graphql.org/) as the Query Language for the API
@@ -16,7 +34,8 @@ I want to add more and more functionality to it over time, which I will list bel
 - [MLab](https://mlab.com/) for hosting the MongoDB database.
 - [Surge](https://surge.sh/) for hosting the React App. Considering switching over to [Firebase](https://firebase.google.com/) since my other sites are hosted on there. 
 
-# Currently Working On
+## Currently Working On
+
 - [ ] Adding more books (I have about 400+ books in my at home library so you see why I need to add the feature functionality below quite soon)
 - [ ] Add more options to the metadata for the API such as genre and multiple author arrays
 - [ ] Adding filters based on general topic/genre
@@ -24,7 +43,8 @@ I want to add more and more functionality to it over time, which I will list bel
 - [ ] Switching to PostgreSQL database
 - [ ] Dockerizing
 
-# Future Features
+## Future Features
+
 - [ ] Search functionality
 - [ ] Intro sentence cycles through quotes
 - [ ] More intuitive design
@@ -34,6 +54,6 @@ I want to add more and more functionality to it over time, which I will list bel
 - [ ] Update on my progress through the book
 - [ ] Possibly: Gatsby starter
 
-# Finished
-- [x] Mobile friendly (hopefully). Tested on Chrome, Safari, Brave, and Firefox on iOS. Friends tested it on Chrome on Android.
+## Finished
 
+- [x] Mobile friendly (hopefully). Tested on Chrome, Safari, Brave, and Firefox on iOS. Friends tested it on Chrome on Android.
