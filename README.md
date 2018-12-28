@@ -16,7 +16,7 @@ I want to add more and more functionality to it over time, which I will list bel
 - [MLab](https://mlab.com/) for hosting the MongoDB database.
 - [Surge](https://surge.sh/) for hosting the React App. Considering switching over to [Firebase](https://firebase.google.com/) since my other sites are hosted on there. 
 
-# Current Working On
+# Currently Working On
 - [ ] Adding more books (I have about 400+ books in my at home library so you see why I need to add the feature functionality below quite soon)
 - [ ] Add more options to the metadata for the API such as genre and multiple author arrays
 - [ ] Adding filters based on general topic/genre
