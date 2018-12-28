@@ -13,6 +13,14 @@ I want to add more and more functionality to it over time, which I will list bel
 ### Running the frontend
 
 `
+cd frontend
+`
+
+`
+npm i
+`
+
+`
 yarn start
 `
 or
