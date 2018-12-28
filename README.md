@@ -14,6 +14,9 @@ I want to add more and more functionality to it over time, which I will list bel
 
 `
 yarn start
+`
+or
+`
 npm run start
 `
 
