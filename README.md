@@ -4,6 +4,8 @@ A virtual bookshelf created to represent my never-ending stack of books.
 
 ![Bookstand](bookstand.png)
 
+Screenshot taken by [Screen Guru](https://screen.guru)
+
 ## Why I Created This
 
 I wanted to learn frontend development and also wanted to be able to share with the world my bookshelf. Sure, I could have used something like Goodreads but where's the fun in that?
