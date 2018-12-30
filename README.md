@@ -2,7 +2,7 @@
 
 A virtual bookshelf created to represent my never-ending stack of books.
 
-![Bookstand](../bookstand.png)
+![Bookstand](bookstand.png)
 
 ## Why I Created This
 
