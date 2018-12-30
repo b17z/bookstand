@@ -2,7 +2,7 @@
 
 A virtual bookshelf created to represent my never-ending stack of books.
 
-![Bookstand](https://2s9e3bif52.execute-api.eu-central-1.amazonaws.com/production/screenshot?url=https://bookstand.surge.sh/&color=E9D460)
+![Bookstand](../bookstand.png)
 
 ## Why I Created This
 
