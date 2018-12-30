@@ -2,7 +2,7 @@
 
 A virtual bookshelf created to represent my never-ending stack of books.
 
-![Bookstand](https://www.dropbox.com/s/z5exfekdd3d0mlc/bookstand.png?dl=0)
+![Bookstand](https://www.dropbox.com/s/y4sin6x38t6pux3/bookstand.png?dl=0)
 
 ## Why I Created This
 
