@@ -3,7 +3,7 @@ import '../Global.css'
 import { Container, Intro, IntroTitle, IntroSentence, IntroDivider, BookContainer, Book, BookImage, BookSynopsis } from './styles'
 import Strapi from 'strapi-sdk-javascript/build/main'
 
-const apiUrl = process.env.API_URL || 'https://bookstandapi.herokuapp.com'
+const apiUrl = process.env.API_URL || 'https://limitless-journey.herokuapp.com'
 const strapi = new Strapi(apiUrl)
 
 class App extends Component {
@@ -20,7 +20,7 @@ class App extends Component {
               _id
               title
               synopsis
-              coverImage {
+              cover {
                 url
               }
             }
@@ -50,7 +50,7 @@ class App extends Component {
         <BookContainer>
           {books.map(book => (
             <Book key={ book._id }>
-              <BookImage src={ `${apiUrl}${book.coverImage.url}` }></BookImage>
+              <BookImage src={ `${apiUrl}${book.cover.url}` }></BookImage>
               <BookSynopsis>{ book.synopsis }</BookSynopsis>
             </Book> 
           ))}
