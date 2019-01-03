@@ -34,7 +34,7 @@ npm run start
 
 ### Accesing the API
 
-- https://bookstandapi.herokuapp.com/books
+- https://limitless-journey.herokuapp.com/books
 
 ## Technologies Used
 
