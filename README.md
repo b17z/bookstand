@@ -41,7 +41,7 @@ npm run start
 - [Create React App](https://github.com/facebook/create-react-app) 
 - [Strapi](https://strapi.io/) for API creation. I can't say enough great things about this. What would have taken much longer to do from scratch, took me a couple of minutes.
 - [GraphQL](https://graphql.org/) as the Query Language for the API
-- [Emotion](https://emotion.sh/) for styling even though I still do not like the CSS-in-JS solutions. My preferred option is [Sass](https://sass-lang.com/).
+- [Emotion](https://emotion.sh/) for styling even though I still do not like the CSS-in-JS solutions. My preferred option is [Sass](https://sass-lang.com/), specifcally SCSS.
 - [MongoDB](https://www.mongodb.com/). Not my preferred option for a database but I just wanted something up and running and Strapi works seamlessly with Mongo. I will switch over to [PostgreSQL](https://www.postgresql.org/) in the near future.
 - [Heroku](https://www.heroku.com/) for hosting the API.
 - [MLab](https://mlab.com/) for hosting the MongoDB database.
