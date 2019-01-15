@@ -50,7 +50,7 @@ class App extends Component {
         <BookContainer>
           {books.map(book => (
             <Book key={ book._id }>
-              <BookImage src={ `${apiUrl}${book.cover.url}` }></BookImage>
+              <BookImage src={ `${book.cover.url}` }></BookImage>
               <BookSynopsis>{ book.synopsis }</BookSynopsis>
             </Book> 
           ))}
