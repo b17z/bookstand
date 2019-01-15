@@ -47,6 +47,7 @@ npm run start
 - [MLab](https://mlab.com/) for hosting the MongoDB database.
 - [Surge](https://surge.sh/) for hosting the React App. Considering switching over to [Firebase](https://firebase.google.com/) since my other sites are hosted on there.
 - [S3](https://aws.amazon.com/s3/) is used as a provider to persist the book images. I quickly learned that uploading directly to Heroku would cause the images to "disappear" after about a day. Each day, the dynos self restart (also called: Cycling). See Heroku's post for more detail: [Why are my file uploads missing/deleted?](https://help.heroku.com/K1PPS2WM/why-are-my-file-uploads-missing-deleted).
+- [Open Covers API](https://openlibrary.org/dev/docs/api/covers). This is where I get the book cover images. Please, do support them.
 
 ## Currently Working On
 
