@@ -42,10 +42,11 @@ npm run start
 - [Strapi](https://strapi.io/) for API creation. I can't say enough great things about this. What would have taken much longer to do from scratch, took me a couple of minutes.
 - [GraphQL](https://graphql.org/) as the Query Language for the API
 - [Emotion](https://emotion.sh/) for styling even though I still do not like the CSS-in-JS solutions. My preferred option is [Sass](https://sass-lang.com/).
-- [MongoDB](https://www.mongodb.com/). Not my preferred option for a database but I just wanted something up and running and Strapi works seamlessly with Mongo. I will switch over to [PostgreSQL](https://www.postgresql.org/) in the very near future.
+- [MongoDB](https://www.mongodb.com/). Not my preferred option for a database but I just wanted something up and running and Strapi works seamlessly with Mongo. I will switch over to [PostgreSQL](https://www.postgresql.org/) in the near future.
 - [Heroku](https://www.heroku.com/) for hosting the API.
 - [MLab](https://mlab.com/) for hosting the MongoDB database.
-- [Surge](https://surge.sh/) for hosting the React App. Considering switching over to [Firebase](https://firebase.google.com/) since my other sites are hosted on there. 
+- [Surge](https://surge.sh/) for hosting the React App. Considering switching over to [Firebase](https://firebase.google.com/) since my other sites are hosted on there.
+- [S3](https://aws.amazon.com/s3/) is used as a provider to persist the book images. I quickly learned that uploading directly to Heroku would cause the images to "disappear" after about a day. Each day, the dynos self restart (also called: Cycling). See Heroku's post for more detail: [Why are my file uploads missing/deleted?](https://help.heroku.com/K1PPS2WM/why-are-my-file-uploads-missing-deleted).
 
 ## Currently Working On
 
