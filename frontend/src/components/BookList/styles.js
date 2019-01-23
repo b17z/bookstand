@@ -72,7 +72,7 @@ export const BookSynopsis = styled.div`
     font-family: 'Patua One';
     font-size: 1.2rem;
     color: #FFF;
-    background: #D8316F; 
+    background: #0094FF; 
     border-radius: 2rem;
     box-shadow: #333 -0.7rem 1.0rem 0.3rem;
     margin-top: 1rem;
